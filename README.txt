@@ -1,0 +1,3 @@
+prva
+vezbicka
+123
